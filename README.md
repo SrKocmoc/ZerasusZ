@@ -1,7 +1,6 @@
 *<h1 align="center">ZerasusZ - Kocmoc </h1>*
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=BLACK&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/SrKocmoc?style=social)
-<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/py">
 
 A principio Zerasus foi criado apenas para brute force de mideas sociais, mas resolvi aplicar outros conhecimentos e transforma-lo em uma só.
 Com grandes problemas para frente essa versão é apenas BETA comparado ao Zerasus, são apenas os Scripts puro com fundamento básico a quem quer aprender de inicio.
