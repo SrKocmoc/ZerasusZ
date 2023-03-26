@@ -43,10 +43,10 @@ BOF - Em breve adicionarei ao BoF novas instruções e também excecução do pr
 <br>Brute_Linkedin [ NEW ]- Adicionarei um novo brute force agora voltado para o Linkedin 🤖
 <br>Brute_Twt [ NEW ] - Outro Brute force também voltado para mídea social 🤖
 <br>Zerasus_Killer [ NEW ] - Uma surpresa para quem deseja aprender coisas novas...  🎃☠️👽
+<br>Zerasus [ NEW ] - Nova face para Zerasus.py
 
 ### Contribuidores:
 *https://github.com/Abdulrah33m*<br>
 *https://github.com/p1ngul1n0*
-
 
 *Proximo Update até 10/10/23*
