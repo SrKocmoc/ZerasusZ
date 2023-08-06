@@ -4,15 +4,15 @@ from Zerasus import menu
 from colores import *
 
 try:
-    proxymain()
+    select_proxymain()
     optio = input("-> ")
     clear()
 
-    select_an_username()
+    select_username()
     email = input("\n-> Id or email: ")
     clear()
 
-    select_an_wordlist()
+    select_wordlist()
     wl = input("\n-> ")
     clear()
 
