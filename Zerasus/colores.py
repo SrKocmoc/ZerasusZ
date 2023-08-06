@@ -75,9 +75,6 @@ def info_EIP():
     print(f"{color.CYAN_BG}[ X ] Informe o EIP [ X ]\nEx: \XA0\X10\X12\X62 {color.END}{color.END}")
 
 
-info_EIP()
-
-
 def info_shellcode():
     print(f"{color.CYAN_BG}[ X ] Informe Quantos Threads [ X ]\n{color.END}{color.END}")
 
