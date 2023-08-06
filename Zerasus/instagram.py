@@ -4,15 +4,15 @@ from Zerasus import menu
 from proxyis import proxis
 
 try:
-    proxymain()
+    select_proxymain()
     optio = input("-> ")
     clear()
 
-    select_an_username()
+    select_username()
     alvo = input("\n-> @ or email: ")
     clear()
 
-    select_an_wordlist()
+    select_wordlist()
     wl = input("\n-> ")
     clear()
 
