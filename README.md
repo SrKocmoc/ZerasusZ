@@ -10,9 +10,17 @@ Estou trabalhando no projeto sozinho e tenho muita coisa para frente no script B
 
 
 <br>Mais Informações sobre Zerasus: <br><br>
-![zera1](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/115b626f-6231-4724-a5b7-a5532c6eea5e)
-![zera2](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/6b815d79-918e-438f-9bb3-0eaf7bafc5b0)
-
+![1](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/a083566b-02cc-460d-99f7-15d0099bc8ec)
+![2](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/cfa7f26e-3c50-4706-bb7a-7418ea40fc58)
+![3](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/549b5a83-47af-4dbe-ba7b-dc637b0e136d)
+![4](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/53dbc3db-9898-4ae7-bb3e-cdaecf10ce45)
+![5](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/d977aec6-ff0f-4e9e-867e-ee43eafcf419)
+![6](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/6fa9f701-0f86-444c-8162-4618ea9cf538)
+![7](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/1c4589d8-cb4d-42cf-b21f-a2a276c59a87)
+![8](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/3969af7d-5e44-45d8-b6e5-0de38fbb6ba9)
+![9](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/39cd0a16-127c-4e51-b936-c8f1c809708d)
+![10](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/e054cd07-e654-4ecf-a095-651e4ef43814)
+![11](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/9de2a744-80e8-4830-9773-f127582e7033)
 
 ## [ ! ] INFOMAÇÃO - INFORMATION [ ! ]:
 BR - 
