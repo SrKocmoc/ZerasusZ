@@ -23,7 +23,7 @@ Estou trabalhando no projeto sozinho, com isso tenho muita coisa para frente par
 
 ## [ ! ] INFOMAÇÃO - INFORMATION [ ! ]:
 BR - 
-Não me responsábilizo por nada causado por ZerasusZ ao utilizar você tem a total responsábilidade pelas suas atitudes cometidas. Zerasus foi feito afim de auxiliar atividades recorrentes no nosso dia a dia, se caso usar para outra atividade sem ser Ética eu repúdio a qualquer ato cometido!<br>
+Não me responsábilizo por nenhum dano causado por ZerasusZ, ao utilizar você tem a total responsábilidade pelas suas atitudes cometidas. Zerasus foi feito afim de auxiliar atividades recorrentes no nosso dia a dia, se caso usar para outra atividade sem ser Ética eu repúdio a qualquer ato cometido!<br>
 OBS: Nem vem chorando q tá pedindo ajuda pra sei lá oq.
 
 EN - I am not responsible for anything caused by ZerasusZ when using it, you are fully responsible for your actions. Zerasus was made in order to help
