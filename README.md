@@ -9,7 +9,6 @@ A ferramenta Cl0neMast3r (de Abdulahem) será a principal ferramenta aonde irei 
 Estou trabalhando no projeto sozinho e tenho muita coisa para frente no script BoF.py então ele será o que vai mais obter Updates até o final de Zerasus.
 
 
-<br>Mais Informações sobre Zerasus: <br><br>
 ![1](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/a083566b-02cc-460d-99f7-15d0099bc8ec)
 ![2](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/cfa7f26e-3c50-4706-bb7a-7418ea40fc58)
 ![3](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/549b5a83-47af-4dbe-ba7b-dc637b0e136d)
