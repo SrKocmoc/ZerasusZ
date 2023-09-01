@@ -5,8 +5,8 @@
 A principio Zerasus foi criado apenas para brute force de mídea social, mas resolvi aplicar outros conhecimentos e transforma-lo em um só.
 Com grandes problemas para frente essa versão é apenas BETA comparado ao Zerasus. Nesta versão existe apenas os scripts iniciais com fundamento básico para iniciantes.
 
-A ferramenta Cl0neMast3r (de Abdulahem) será a principal ferramenta aonde irei adicionar diversos projetos para Pentest, OSINT, Exploits e Analise de Vulnerabilidades.
-Estou trabalhando no projeto sozinho e tenho muita coisa para frente no script BoF.py então ele será o que vai mais obter Updates até o final de Zerasus.
+A ferramenta Cl0neMast3r (de Abdulahem) será a principal ferramenta aonde irei adicionar diversos scripts para Pentest, OSINT, Exploits e Analise de Vulnerabilidades e outros.
+Estou trabalhando no projeto sozinho, com isso tenho muita coisa para frente para fazer, espero que gostem!!
 
 
 ![1](https://github.com/SrKocmoc/ZerasusZ/assets/107345207/a083566b-02cc-460d-99f7-15d0099bc8ec)
