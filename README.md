@@ -2,10 +2,10 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=BLACK&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/SrKocmoc?style=social)
 
-A principio Zerasus foi criado apenas para brute force de mideas sociais, mas resolvi aplicar outros conhecimentos e transforma-lo em uma só.
-Com grandes problemas para frente essa versão é apenas BETA comparado ao Zerasus, são apenas os Scripts puro com fundamento básico para quem quer aprender de inicio.
+A principio Zerasus foi criado apenas para brute force de mídea social, mas resolvi aplicar outros conhecimentos e transforma-lo em um só.
+Com grandes problemas para frente essa versão é apenas BETA comparado ao Zerasus. Nesta versão existe apenas os scripts iniciais com fundamento básico para iniciantes.
 
-A ferramenta Cl0neMast3r será a principal ferramenta aonde irei adicionar diversos projetos para Pentest, OSINT, Exploits e Analise de Vulnerabilidades.
+A ferramenta Cl0neMast3r (de Abdulahem) será a principal ferramenta aonde irei adicionar diversos projetos para Pentest, OSINT, Exploits e Analise de Vulnerabilidades.
 Estou trabalhando no projeto sozinho e tenho muita coisa para frente no script BoF.py então ele será o que vai mais obter Updates até o final de Zerasus.
 
 
