@@ -46,8 +46,6 @@ try:
         menu()
 
 except Exception:
-    print(f"{color.RED}Ocorreu um Erro: {Exception}")
-    sleep(3)
-    print(f'De volta para o Menu!{color.END}')
-    sleep(2)
+    print(f"{color.RED}Ocorreu um Erro: {Exception}", sleep(3))
+    print(f'De volta para o Menu!{color.END}', sleep(2))
     menu()
