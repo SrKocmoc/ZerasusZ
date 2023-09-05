@@ -81,17 +81,13 @@ try:
     elif optio == '2':
         proxyes()
     else:
-        print("Informe uma opcao na proxima")
-        sleep(3)
+        print("Informe uma opcao na proxima", sleep(3))
         clear()
-        print("De volta para o Menu!")
-        sleep(2)
+        print("De volta para o Menu!", sleep(2))
         menu()
 except Exception:
-    print(f"Ocorreu um erro: {Exception}")
-    sleep(3)
+    print(f"Ocorreu um erro: {Exception}", sleep(2))
     clear()
-    print("De volta para o Menu!")
-    sleep(2)
+    print("De volta para o Menu!", sleep(2))
     menu()
 
