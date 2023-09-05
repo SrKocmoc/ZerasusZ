@@ -68,11 +68,9 @@ try:
         proxis()
         grabing_no_proxy()
     else:
-        print(f"{color.RED}Na proxima informe uma opcao!")
+        print(f"{color.RED}Na proxima informe uma opcao!", sleep(3))
         clear()
-        sleep(2)
-        print(f"De volta para o menu!{color.END}")
-        sleep(3)
+        print(f"De volta para o menu!{color.END}", (2))
         menu()
 except ValueError:
     print(f"{color.RED}Resposta errada! Eu esperava numero nao string...")
