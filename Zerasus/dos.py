@@ -78,14 +78,10 @@ try:
         proxis()
         dos()
     else:
-        print(f"{color.RED}Na proxima informe uma opcao!")
-        sleep(3)
-        print(f"De volta para o menu!{color.END}")
-        sleep(2)
+        print(f"{color.RED}Na proxima informe uma opcao!", sleep(3))
+        print(f"De volta para o menu!{color.END}", sleep(2))
         menu()
 except:
-    print(f"{color.RED}Ocorreu um Erro: {Exception}")
-    sleep(3)
-    print(f'De volta para o Menu!{color.END}')
-    sleep(2)
+    print(f"{color.RED}Ocorreu um Erro: {Exception}", sleep(3))
+    print(f'De volta para o Menu!{color.END}', sleep(2))
     menu()
